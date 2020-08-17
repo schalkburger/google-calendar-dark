@@ -53,11 +53,20 @@
         color: #9d9d9d;
     }
 
+    .J2aUD.T8M5bd .qmFsL::after, .SGFqbe.T8M5bd .qmFsL::after {
+        background-image: linear-gradient(to left,#282c35,rgb(40 44 53));
+    }
+
+    body.geSgge .g3dbUc {
+        color: #fff;
+    }
+
     /* Calendar Sidebar */
+
     .OWyNBb.m1fiJb,
     .W0m3G .r4nke,
     .W0m3G::before {
-        background-color: transparent !important;
+        background-color: #282c35 !important;
     }
 
     .hEtGGf::after {
@@ -74,6 +83,10 @@
         background-color: #282c35;
     }
 
+    .OWyNBb.m1fiJb.e6o4df, .OWyNBb.m1fiJb.TbFp5e, .OWyNBb.m1fiJb {
+        border-color: #282c35;
+    }
+
     /* Calendar Main */
     .v83gc,
     .GENA3c,
@@ -85,7 +98,7 @@
     .CIFHgc,
     .MVMVEe,
     .jRJqje::-webkit-scrollbar-thumb, .eADW5d {
-        border-color: #4c4c4c !important;
+        border-color: #21252c !important;
     }
 
     .hnGhZ::-webkit-scrollbar-thumb {
@@ -132,6 +145,10 @@
 
     body.geSgge .zWcBU.BvHyo {
         border-left-width: 2px;
+    }
+
+    .Jmftzc.RIOtYe.PKhkGc {
+        color: #fff;
     }
 
     /* Far Right Sidebar */
