@@ -107,11 +107,16 @@
         /* Current Day */
     
         div.t8qpF.elYzab-cXXICe-Hjleke.YK7obe.ef2wWc {
-            background-color: #0e0f12;
+            background-color: #2C3B51;
         }
     
-        div.t8qpF.elYzab-cXXICe-Hjleke.YK7obe.ef2wWc h2 {
+        div.t8qpF.elYzab-cXXICe-Hjleke.YK7obe.ef2wWc h2, .g3dbUc.smECzc {
             color: #fff !important;
+        }
+    
+        .PhLhOd, .t8qpF, .QIadxc {
+            border-color: #21252c !important;
+            border-width: 8px;
         }
     
         .YvjgZe,
@@ -176,5 +181,12 @@
         body[data-viewfamily=SEARCH] .gboEAb,
         body[data-viewfamily=EVENT_EDIT] .gboEAb {
             display: none;
+        }
+    
+        /* Create Event Modal */
+    
+        [data-layout-mode="bubble"] [jsslot], [data-layout-mode="bubble"] [data-dragsource-type="15"], [data-key="startDate"], [data-layout-mode="bubble"] span, [data-layout-mode="bubble"] [jsname] {
+            background: #464B53;
+            color: #fff !important;
         }
     }
